@@ -1,2 +1,1 @@
-# CLIVE-Hackaton-
-CLIVE (Command Line Voice-Enhanced). This has been built in ~30hrs during the Spotlight Consumer Edge AI Hackathon.
+https://github.com/Adamantiamable/CLI-Automation---EDGE-AI/tree/main
